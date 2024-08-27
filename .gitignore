@@ -1,0 +1,32 @@
+# Node modules directory
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+*.tmp
+*.swp
+.DS_Store
+
+# Excel temporary files
+~$*.xlsx
+
+# Environment variables
+.env
+
+# Miscellaneous system files
+Thumbs.db
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# OS or Editor directories
+.idea/
+.vscode/
+.history/
